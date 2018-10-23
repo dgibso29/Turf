@@ -1,0 +1,850 @@
+<MainDatabase>
+  <GameInfoDB>
+    <Game>
+      <name></name>
+      <date>07/09/2017 21:10</date>
+      <savetime></savetime>
+    </Game>
+  </GameInfoDB>
+  <StadiumDB>
+    <Stadium>
+      <name>Mercedez-Benz Stadium</name>
+      <city>Atlanta</city>
+      <state>Georgia</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>71000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Toyota Park</name>
+      <city>Chicago</city>
+      <state>Illinois</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>20000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>MAPFRE Stadium</name>
+      <city>Columbus</city>
+      <state>Ohio</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>19968</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>RFK Stadium</name>
+      <city>Washington</city>
+      <state>District of Columbia</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>45596</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Saputo Stadium</name>
+      <city>Montreal</city>
+      <state>Quebec</state>
+      <country>CAN</country>
+      <owner>unknown</owner>
+      <primaryCapacity>20801</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Gillette Stadium</name>
+      <city>Boston</city>
+      <state>Massachusetts</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>66829</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Yankee Stadium</name>
+      <city>New York City</city>
+      <state>New York</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>54251</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Red Bull Arena</name>
+      <city>Newark</city>
+      <state>New Jersey</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>25000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Orlando City Stadium</name>
+      <city>Orlando</city>
+      <state>Florida</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>25500</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Talen Energy Stadium</name>
+      <city>Philadelphia</city>
+      <state>Pennsylvania</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>18500</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>BMO Field</name>
+      <city>Toronto</city>
+      <state>Ontario</state>
+      <country>CAN</country>
+      <owner>unknown</owner>
+      <primaryCapacity>30000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Dick's Sporting Goods Park</name>
+      <city>Denver</city>
+      <state>Colorado</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>18061</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Toyota Stadium</name>
+      <city>Dallas</city>
+      <state>Texas</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>20500</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>BBVA Compass Stadium</name>
+      <city>Houston</city>
+      <state>Texas</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>22039</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>StubHub Center</name>
+      <city>Los Angeles</city>
+      <state>California</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>27000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>TCF Bank Stadium</name>
+      <city>Minneapolis</city>
+      <state>Nevada</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>50805</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Providence Park</name>
+      <city>Portland</city>
+      <state>Minnesota</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>21144</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Rio Tinto Stadium</name>
+      <city>Salt Lake City</city>
+      <state>Oregon</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>20213</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Avaya Stadium</name>
+      <city>San Jose</city>
+      <state>Utah</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>18000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>CenturyLink Field</name>
+      <city>Seattle</city>
+      <state>Washington</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>69000</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>Childen's Mercy Park</name>
+      <city>Kansas City</city>
+      <state>Kansas</state>
+      <country>USA</country>
+      <owner>unknown</owner>
+      <primaryCapacity>18467</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+    <Stadium>
+      <name>BC Place</name>
+      <city>Vancouver</city>
+      <state>British Columbia</state>
+      <country>CAN</country>
+      <owner>unknown</owner>
+      <primaryCapacity>54500</primaryCapacity>
+      <secondaryCapacity>0</secondaryCapacity>
+      <tertiaryCapacity>0</tertiaryCapacity>
+      <primary>Soccer</primary>
+      <secondary></secondary>
+      <tertiary></tertiary>
+      <staff></staff>
+      <finances></finances>
+      <currentdesign></currentdesign>
+      <newdesign></newdesign>
+    </Stadium>
+  </StadiumDB>
+  <CityDB>
+    <City>
+      <name>Atlanta</name>
+      <state>GA</state>
+      <country>United States</country>
+      <population>5910000</population>
+      <climate>Humid Subtropical</climate>
+      <wages>-20</wages>
+    </City>
+    <City>
+      <name>Seattle</name>
+      <state>WA</state>
+      <country>United States</country>
+      <population>4459000</population>
+      <climate>Oceanic</climate>
+      <wages>20</wages>
+    </City>
+    <City>
+      <name>Detroit</name>
+      <state>MI</state>
+      <country>United States</country>
+      <population>5311000</population>
+      <climate>Humid Continental</climate>
+      <wages>-20</wages>
+    </City>
+  </CityDB>
+  <TeamDB>
+    <Team>
+      <name>Atlanta United</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Mercedez-Benz Stadium</stadium>
+      <city>Atlanta</city>
+      <state>Georgia</state>
+      <country>USA</country>
+      <fanbase>100000</fanbase>
+    </Team>
+    <Team>
+      <name>Chicago Fire</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Toyota Park</stadium>
+      <city>Chicago</city>
+      <state>Illinois</state>
+      <country>USA</country>
+      <fanbase>78000</fanbase>
+    </Team>
+    <Team>
+      <name>Columbus Crew SC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>MAPFRE Stadium</stadium>
+      <city>Columbus</city>
+      <state>Ohio</state>
+      <country>USA</country>
+      <fanbase>67000</fanbase>
+    </Team>
+    <Team>
+      <name>D.C. United</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>RFK Stadium</stadium>
+      <city>Washington</city>
+      <state>District of Columbia</state>
+      <country>USA</country>
+      <fanbase>55000</fanbase>
+    </Team>
+    <Team>
+      <name>Montreal Impact</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Saputo Stadium</stadium>
+      <city>Montreal</city>
+      <state>Quebec</state>
+      <country>CAN</country>
+      <fanbase>67000</fanbase>
+    </Team>
+    <Team>
+      <name>New England Revolution</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Gillette Stadium</stadium>
+      <city>Boston</city>
+      <state>Massachusetts</state>
+      <country>USA</country>
+      <fanbase>45000</fanbase>
+    </Team>
+    <Team>
+      <name>New York City FC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Yankee Stadium</stadium>
+      <city>New York City</city>
+      <state>New York</state>
+      <country>USA</country>
+      <fanbase>109000</fanbase>
+    </Team>
+    <Team>
+      <name>New York Red Bulls</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Red Bull Arena</stadium>
+      <city>Newark</city>
+      <state>New Jersey</state>
+      <country>USA</country>
+      <fanbase>89000</fanbase>
+    </Team>
+    <Team>
+      <name>Orlando City SC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Orlando City Stadium</stadium>
+      <city>Orlando</city>
+      <state>Florida</state>
+      <country>USA</country>
+      <fanbase>35000</fanbase>
+    </Team>
+    <Team>
+      <name>Philadelphia Union</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Talen Energy Stadium</stadium>
+      <city>Philadelphia</city>
+      <state>Pennsylvania</state>
+      <country>USA</country>
+      <fanbase>56000</fanbase>
+    </Team>
+    <Team>
+      <name>Toronto FC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>BMO Field</stadium>
+      <city>Toronto</city>
+      <state>Ontario</state>
+      <country>CAN</country>
+      <fanbase>51000</fanbase>
+    </Team>
+    <!--<Team>
+      <name>Colorado Rapids</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Dick's Sporting Goods Park</stadium>
+      <city>Denver</city>
+      <state>Colorado</state>
+      <country>USA</country>
+      <fanbase>45000</fanbase>
+    </Team>
+    <Team>
+      <name>FC Dallas</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Toyota Stadium</stadium>
+      <city>Dallas</city>
+      <state>Texas</state>
+      <country>USA</country>
+      <fanbase>80000</fanbase>
+    </Team>
+    <Team>
+      <name>Houston Dynamo</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>BBVA Compass Stadium</stadium>
+      <city>Houston</city>
+      <state>Texas</state>
+      <country>USA</country>
+      <fanbase>75000</fanbase>
+    </Team>
+    <Team>
+      <name>LA Galaxy</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>StubHub Center</stadium>
+      <city>Los Angeles</city>
+      <state>California</state>
+      <country>USA</country>
+      <fanbase>80000</fanbase>
+    </Team>
+    <Team>
+      <name>Minnesota United FC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>TCF Bank Stadium</stadium>
+      <city>Minneapolis</city>
+      <state>Nevada</state>
+      <country>USA</country>
+      <fanbase>36000</fanbase>
+    </Team>
+    <Team>
+      <name>Portland Timbers</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Providence Park</stadium>
+      <city>Portland</city>
+      <state>Minnesota</state>
+      <country>USA</country>
+      <fanbase>41000</fanbase>
+    </Team>
+    <Team>
+      <name>Real Salt Lake</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Rio Tinto Stadium</stadium>
+      <city>Salt Lake City</city>
+      <state>Oregon</state>
+      <country>USA</country>
+      <fanbase>90000</fanbase>
+    </Team>
+    <Team>
+      <name>San Jose Earthquakes</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Avaya Stadium</stadium>
+      <city>San Jose</city>
+      <state>Utah</state>
+      <country>USA</country>
+      <fanbase>110000</fanbase>
+    </Team>
+    <Team>
+      <name>Seattle Sounders FC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>CenturyLink Field</stadium>
+      <city>Seattle</city>
+      <state>Washington</state>
+      <country>USA</country>
+      <fanbase>105000</fanbase>
+    </Team>
+    <Team>
+      <name>Sporting Kansas City</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>Childen's Mercy Park</stadium>
+      <city>Kansas City</city>
+      <state>Kansas</state>
+      <country>USA</country>
+      <fanbase>62000</fanbase>
+    </Team>
+    <Team>
+      <name>Vancouver Whitecaps FC</name>
+      <sport>Soccer</sport>
+      <league>Major League Soccer</league>
+      <stadium>BC Place</stadium>
+      <city>Vancouver</city>
+      <state>British Columbia</state>
+      <country>CAN</country>
+      <fanbase>68000</fanbase>
+    </Team>-->
+  </TeamDB>
+  <CompanyDB>
+    <Company>
+      <name>Player Company</name>
+      <city>Unknown</city>
+      <owner>Player Name</owner>
+      <staff></staff>
+      <finances></finances>
+    </Company>
+    <Company>
+      <name>Super Stadium</name>
+      <city>Seattle</city>
+      <owner>Soccer</owner>
+      <staff></staff>
+      <finances></finances>
+    </Company>
+    <Company>
+      <name>Deadly Dome</name>
+      <city>Detroit</city>
+      <owner>Soccer</owner>
+      <staff></staff>
+      <finances></finances>
+    </Company>
+  </CompanyDB>
+  <EventTemplateDB>
+    <Template>
+      <name>league</name>
+      <type>sport</type>
+    </Template>
+    <_>
+      <name>friendly</name>
+      <type>sport</type>
+    </_>
+    <_>
+      <name>cup</name>
+      <type>sport</type>
+    </_>
+    <_>
+      <name>concert</name>
+      <type>music</type>
+    </_>
+    <_>
+      <name>rally</name>
+      <type>political</type>
+    </_>
+  </EventTemplateDB>
+  <EventDB>
+  </EventDB>
+  <SportDB>
+    <Sport>
+      <name>Soccer</name>
+      <popularity>85</popularity>
+    </Sport>
+  </SportDB>
+  <VendorDB>
+    <Vendor>
+      <name>Player Company</name>
+      <city>Unknown</city>
+    </Vendor>
+    <Vendor>
+      <name>Super Stadium</name>
+      <city>Seattle</city>
+    </Vendor>
+    <Vendor>
+      <name>Deadly Dome</name>
+      <city>Detroit</city>
+    </Vendor>
+  </VendorDB>
+  <LeagueDB>
+    <League>
+      <name>Major League Soccer</name>
+      <sport>soccer</sport>
+      <abbreviation>MLS</abbreviation>
+      <minCap>20000</minCap>
+      <maxCap>0</maxCap>
+      <popularity>85</popularity>
+      <teams>22</teams>
+      <startDate>03/01</startDate>
+      <endDate>10/31</endDate>
+      <rules>
+        <numberofmeetings>0</numberofmeetings>
+        <drawsAllowed>false</drawsAllowed>
+        <overtimeAllowed>false</overtimeAllowed>
+        <penaltyShootoutsAllowed>false</penaltyShootoutsAllowed>
+        <mainDays />
+        <offDays />
+        <weekendStartTimes />
+        <weekdayStartTimes />
+        <stadiumPrepTime>0</stadiumPrepTime>
+        <regulationDuration>0</regulationDuration>
+        <overtimeDuration>0</overtimeDuration>
+        <stadiumBreakdownTime>0</stadiumBreakdownTime>
+        <maxGamesInTwoWeeks>0</maxGamesInTwoWeeks>
+        <minIntervalBetweenGames>0</minIntervalBetweenGames>
+      </rules>
+      <leagueHistory>
+      </leagueHistory>
+    </League>
+  </LeagueDB>
+  <ClimateDB>
+    <Climate>
+      <name>Humid Subtropical</name>
+      <JanHi>0</JanHi>
+      <JanLo>0</JanLo>
+      <JanPre>0</JanPre>
+      <FebHi>0</FebHi>
+      <FebLo>0</FebLo>
+      <FebPre>0</FebPre>
+      <MarHi>0</MarHi>
+      <MarLo>0</MarLo>
+      <MarPre>0</MarPre>
+      <AprHi>0</AprHi>
+      <AprLo>0</AprLo>
+      <AprPre>0</AprPre>
+      <MayHi>0</MayHi>
+      <MayLo>0</MayLo>
+      <MayPre>0</MayPre>
+      <JunHi>0</JunHi>
+      <JunLo>0</JunLo>
+      <JunPre>0</JunPre>
+      <JulHi>0</JulHi>
+      <JulLo>0</JulLo>
+      <JulPre>0</JulPre>
+      <AugHi>0</AugHi>
+      <AugLo>0</AugLo>
+      <AugPre>0</AugPre>
+      <SepHi>0</SepHi>
+      <SepLo>0</SepLo>
+      <SepPre>0</SepPre>
+      <OctHi>0</OctHi>
+      <OctLo>0</OctLo>
+      <OctPre>0</OctPre>
+      <NovHi>0</NovHi>
+      <NovLo>0</NovLo>
+      <NovPre>0</NovPre>
+      <DecHi>0</DecHi>
+      <DecLo>0</DecLo>
+      <DecPre>0</DecPre>
+    </Climate>
+    <Climate>
+      <name>Oceanic</name>
+      <JanHi>0</JanHi>
+      <JanLo>0</JanLo>
+      <JanPre>0</JanPre>
+      <FebHi>0</FebHi>
+      <FebLo>0</FebLo>
+      <FebPre>0</FebPre>
+      <MarHi>0</MarHi>
+      <MarLo>0</MarLo>
+      <MarPre>0</MarPre>
+      <AprHi>0</AprHi>
+      <AprLo>0</AprLo>
+      <AprPre>0</AprPre>
+      <MayHi>0</MayHi>
+      <MayLo>0</MayLo>
+      <MayPre>0</MayPre>
+      <JunHi>0</JunHi>
+      <JunLo>0</JunLo>
+      <JunPre>0</JunPre>
+      <JulHi>0</JulHi>
+      <JulLo>0</JulLo>
+      <JulPre>0</JulPre>
+      <AugHi>0</AugHi>
+      <AugLo>0</AugLo>
+      <AugPre>0</AugPre>
+      <SepHi>0</SepHi>
+      <SepLo>0</SepLo>
+      <SepPre>0</SepPre>
+      <OctHi>0</OctHi>
+      <OctLo>0</OctLo>
+      <OctPre>0</OctPre>
+      <NovHi>0</NovHi>
+      <NovLo>0</NovLo>
+      <NovPre>0</NovPre>
+      <DecHi>0</DecHi>
+      <DecLo>0</DecLo>
+      <DecPre>0</DecPre>
+    </Climate>
+    <Climate>
+      <name>Humid Continental</name>
+      <JanHi>0</JanHi>
+      <JanLo>0</JanLo>
+      <JanPre>0</JanPre>
+      <FebHi>0</FebHi>
+      <FebLo>0</FebLo>
+      <FebPre>0</FebPre>
+      <MarHi>0</MarHi>
+      <MarLo>0</MarLo>
+      <MarPre>0</MarPre>
+      <AprHi>0</AprHi>
+      <AprLo>0</AprLo>
+      <AprPre>0</AprPre>
+      <MayHi>0</MayHi>
+      <MayLo>0</MayLo>
+      <MayPre>0</MayPre>
+      <JunHi>0</JunHi>
+      <JunLo>0</JunLo>
+      <JunPre>0</JunPre>
+      <JulHi>0</JulHi>
+      <JulLo>0</JulLo>
+      <JulPre>0</JulPre>
+      <AugHi>0</AugHi>
+      <AugLo>0</AugLo>
+      <AugPre>0</AugPre>
+      <SepHi>0</SepHi>
+      <SepLo>0</SepLo>
+      <SepPre>0</SepPre>
+      <OctHi>0</OctHi>
+      <OctLo>0</OctLo>
+      <OctPre>0</OctPre>
+      <NovHi>0</NovHi>
+      <NovLo>0</NovLo>
+      <NovPre>0</NovPre>
+      <DecHi>0</DecHi>
+      <DecLo>0</DecLo>
+      <DecPre>0</DecPre>
+    </Climate>
+  </ClimateDB>
+</MainDatabase>
